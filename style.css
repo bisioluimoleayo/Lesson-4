@@ -271,6 +271,8 @@ footer{
 .footimage img{
     width: 100%;
     height: 450px;
+    margin-top: 50px;
+    margin-bottom: 0;
 }
 .underline{
     border-bottom: 4px solid pink;
@@ -278,7 +280,7 @@ footer{
     margin-top: 70px;
 }
 .sub{
-    margin: 0px 20px;
+    margin: 50px 20px;
     flex:0.5;
     display: flex;
     flex-direction: column;
@@ -319,6 +321,7 @@ footer{
       text-align: center;
       width: 60%;
       margin-bottom: 10px;
+      font-size: 0.7em;
   }
   .fab{
       font-size: 30px;
