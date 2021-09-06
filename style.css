@@ -47,7 +47,7 @@ header {
     align-items: flex-end;
     color: white;
     padding: 60px;
-    background-image: url('../images/banner.jpeg');
+    background-image: url('https://i.postimg.cc/BZrxZ9G8/banner.jpg');
     background-repeat: no-repeat;
     background-size:cover;
 }
@@ -100,22 +100,22 @@ header {
 }
 
 .gallery .gallery-img-1{
-    background-image: url("../images/gallery-1.jpeg");
+    background-image: url("https://i.postimg.cc/GpXFb4cr/gallery-1.jpg");
 }
 .gallery .gallery-img-2{
-    background-image: url("../images/gallery-2.jpeg");
+    background-image: url("https://i.postimg.cc/1t4pXytF/gallery-2.jpg");
 }
 .gallery .gallery-img-3{
-    background-image: url("../images/gallery-3.jpeg");
+    background-image: url("https://i.postimg.cc/50G8FDYR/gallery-3.jpg");
 }
 .gallery .gallery-img-4{
-    background-image: url("../images/gallery-4.jpeg");
+    background-image: url("https://i.postimg.cc/g0zy9VbN/gallery-4.jpg");
 }
 .gallery .gallery-img-5{
-    background-image: url("../images/gallery-5.jpeg");
+    background-image: url("https://i.postimg.cc/59YBM9Dd/gallery-5.jpg");
 }
 .gallery .gallery-img-6{
-    background-image: url("../images/gallery-6.jpeg");
+    background-image: url("https://i.postimg.cc/FzL3bG0s/gallery-6.jpg");
 }
 
 .coming-soon{
