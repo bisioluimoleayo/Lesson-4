@@ -67,7 +67,7 @@ header {
 .annon-section{
     display: flex;
     justify-content: center;
-    padding: 100px 0;
+    padding: 100px 250px;
     background-color: #d9b1b3;
     color: white;
 }
