@@ -259,24 +259,72 @@ header {
     font-size: 1rem;
 }
 
-.last-section{
+footer{
     display: flex;
     justify-content: center;
-    height: 400px;
-    padding-top: 70px; 
-}
-.last-section .last-section-image{
-    width: 50%;
-}
-
-.row-100 .suscribe .h3{
-    text-align: center;
+    align-items: flex-start;
     
 }
- .social-icons{
-    margin: 30px 0;
+.footimage{
+    background-image: url("https://i.postimg.cc/DZtbzsRV/subscribe.jpg");
+    flex: 0.5;
 }
-
-.social-icons .twitter{
-   padding: 0 20px;
+.footimage img{
+    width: 100%;
+    height: 450px;
 }
+.underline{
+    border-bottom: 4px solid pink;
+    width: 90%;
+    margin-top: 70px;
+}
+.sub{
+    margin: 0px 20px;
+    flex:0.5;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.capt{
+    font-size: 3rem;
+    font-weight:bold;
+    font-style: italic;
+    margin: 10px;
+    text-align: center;
+}
+.footform{
+    text-align: center;
+    margin: 20px 20px 0px 20px;
+    padding: 1.5rem;
+}
+.footinput{
+    width: 45%; 
+    padding: .5rem;    
+    outline: none;
+  }
+  .footform button {
+    color: white;
+    padding: .5rem;
+    border: none;
+    cursor: pointer;
+    background: black;
+    border-radius: 20px;
+    width: 30%;
+    text-align: center;
+    font-size: .8rem;
+    font-style: normal;
+    margin: 10px ;
+  }
+  .capText{
+      text-align: center;
+      width: 60%;
+      margin-bottom: 10px;
+  }
+  .fab{
+      font-size: 30px;
+  }
+  .fas{
+    font-size: 30px;
+    color:white; 
+  }
